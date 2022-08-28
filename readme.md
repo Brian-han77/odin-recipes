@@ -1,0 +1,1 @@
+This project is "recipes". It is a demo project made in order to practice HTML, more specifically lists, links, images, and more very basic elements.
